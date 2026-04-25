@@ -13,7 +13,6 @@ Infrastructure as Code, containerization, and a complete CI/CD pipeline — all 
 
 ## 🌐 Live Demo
 
-🔗 **[https://devops-showcase-app.azurewebsites.net](https://devops-showcase-app.azurewebsites.net)**
 
 ---
 
