@@ -227,11 +227,8 @@ git push origin main
 
 **Muhammad Tararr**
 📍 Calgary, AB
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-tararr/)
+🐙 [GitHub](https://github.com/Mo-Tar)
 
 ---
 
-## 📄 License
-
-MIT License — feel free to fork and build on this!
